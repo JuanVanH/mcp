@@ -1,0 +1,8 @@
+name: JuanPL
+version: ${project.version}
+main: com.juan.pl.Main
+api-version: 1.16
+commands:
+  start:
+    aliases: [go, begin]
+    description: Starts the game
